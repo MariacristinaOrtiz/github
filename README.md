@@ -34,7 +34,7 @@ Se muestra la identificación de los elementos de navegación de la wewbsite **G
 
 ### Navegación filtrada
 
-![github-filtrada](assets/docs/github-filtrada.png)
+![github-filtrada](assets/docs/githhub-filtrada.png)
 
 ### Navegación inline
 
